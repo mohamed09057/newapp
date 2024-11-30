@@ -12,7 +12,6 @@ import 'package:newapp/widgets/app_circle_button.dart';
 
 class HomeScreen extends GetView<MyZoomDrawerController> {
   static const String routeName = "/home";
-
   const HomeScreen({super.key});
 
   @override
